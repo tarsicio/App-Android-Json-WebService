@@ -1,0 +1,15 @@
+Realizado por Tarsicio Carrizales telecom.com.ve@gmail.com Estado Lara Venezuela
+El Servicio web fue creado con:
+PHP-PEAR Versión 5.4.4-14 
+Mysql Versión 5.5.35 
+Apache2 Versión 2.2.22-13
+
+El sistema Operativo Utilizado fue Debian en su Versión 7.0
+El Diseño de la Aplicación Android se realizó con Eclipse en su Versión 3.8
+
+Toda la obra (Aplicación Android, Servicio web bajo PHP, y la Base de Datos Mysql quedan bajo
+Licencia de Creative Commons Reconocimiento 4.0 Internacional.
+
+Nota: Junto a este archivo se anexa, Código Fuente completo de la aplicación cliente bajo Android.
+      se entrega el código fuente del Servicio Web y el archivo plano de la base de datos.sql, para 
+      que puedan ver en funcionamiento la aplicación.

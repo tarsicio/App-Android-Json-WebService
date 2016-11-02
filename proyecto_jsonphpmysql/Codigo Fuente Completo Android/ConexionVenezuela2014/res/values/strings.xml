@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Venezuela</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="cargar">Cargar Registros del Servidor</string>
+    <string name="enviar">Enviar Datos Al Servidor</string>
+    <string name="title_activity_recuperar">Enviar Datos a INTERNET</string>
+    <string name="grabar">Guardar en Internet</string>
+    <string name="atras">Pantalla Anterior</string>
+    <string name="salir">Salir Aplicación</string>
+    <string name="author">Tarsicio Carrizales</string>
+    <string name="configuracion">Configuración Conexión</string>
+    <string name="ip_servidor">IP/URL</string>
+    <string name="ipServidor">IP/URL</string>
+    <string name="indiquenombre">Escriba Nombre</string>
+    <string name="escriobanumero">Escriba Clave Alfa Numérica</string>
+
+</resources>
